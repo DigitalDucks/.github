@@ -6,4 +6,4 @@ As an agency, we are passionate about you as our clients and believe that techno
 
 We strive to empower a creative and efficient business environment for you and your organisation which has ensured we offer high-end solutions that guarantee your business takes full advantage of the perks of technological transformation without worrying about the technical nitty-gritty.
 
-
+<a href="https://www.github.com/DigitalDucks" target="_blank" rel="no-referrer"><img src="https://img.shields.io/github/followers/DigitalDucks?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a> 
